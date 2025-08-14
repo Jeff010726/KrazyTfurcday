@@ -42,8 +42,9 @@ KrazyTfurcday/
 
 ## 使用方法
 
-1. 直接在浏览器中打开 `index.html` 文件
-2. 或者使用本地服务器运行项目
+1. **在线访问**：[GitHub Pages 链接](https://jeff010726.github.io/KrazyTfurcday/)
+2. **本地运行**：直接在浏览器中打开 `index.html` 文件
+3. **本地服务器**：使用本地服务器运行项目
 
 ## 设计特色
 
